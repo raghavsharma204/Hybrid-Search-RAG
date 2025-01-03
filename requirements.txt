@@ -1,0 +1,14 @@
+langchain
+openai
+streamlit
+tiktoken
+unstructured
+pdf2image
+pdfminer
+PyPDF2
+python-dotenv
+bs4
+arxiv
+langchain_community
+langchain_huggingface
+nltk
